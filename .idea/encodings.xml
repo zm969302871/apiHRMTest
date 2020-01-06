@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/api/emp_api.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/api/login_api.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/login_data.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/run.suite.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/script/login.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/script/test_emp.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/script/test_login_para.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
